@@ -20,5 +20,5 @@ int main(int argc, char *argv[]) {
   view.setScene(&scene);
   view.show();
 
-  return a.exec();
+  return a.exec();//
 }
