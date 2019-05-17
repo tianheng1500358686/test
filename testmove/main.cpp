@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
   scene.setSceneRect(0, 0, 400, 300);
   scene.addItem(pItem);
 
-  // 为视图设置场景
+  // 为视图设置场景、、、、、
   QGraphicsView view;
   view.setScene(&scene);
   view.show();
